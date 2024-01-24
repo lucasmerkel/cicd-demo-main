@@ -1,6 +1,6 @@
 ---
 _schema-version: '3.1'
-ID: dior_sample_OPEN
+ID: cicd_sample_OPEN
 version: 1.0.0
 description: "A simple CAP project."
 parameters:
